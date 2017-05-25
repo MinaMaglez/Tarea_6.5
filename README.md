@@ -1,1 +1,5 @@
-# Tarea_6.5
+# Este repo tiene la ultima tarea de bioinformatica 
+
+:D!!!!
+
+pd: sin contar la extra :( 
